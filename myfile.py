@@ -61,7 +61,7 @@ print("Your favorite color is " + favorite_color);\
 age =input("My age is: " )
 print (age);\
 
-# Hello Python would be the output
+# It prompts for the string and then output would be: "Hello Python&"" would be the output
 
 inputString = input('Enter a string: ')
 print(inputString, sep='#', end='&')
